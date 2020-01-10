@@ -1,2 +1,1 @@
-# C-mysql
-c#窗体程序与mysql传输数据
+这是一个Python界面程序
